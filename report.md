@@ -14,10 +14,10 @@
 ## Описание процесса тестирования
 
 В процессе тестирования использовались следующие артефакты:
-* Инструкция к программе (https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md)
+* [Инструкция к программе](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md)
 
 
-В качестве тестовых данных использовались данные https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md:
+В качестве тестовых данных использовались [данные]https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md:
 
 Валидные ключи:
 * Result for 8f05e6a7-70e9-33d7-bfe7-b19eae0d8998: OK
