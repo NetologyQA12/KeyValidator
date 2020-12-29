@@ -7,10 +7,9 @@
 На тестирование затрачено: 1 час.
 
 В результате тестирования выявлены следующие дефекты:
-* https://github.com/NetologyQA12/KeyValidator/issues
-* https://github.com/NetologyQA12/KeyValidator/issues/2
-* https://github.com/NetologyQA12/KeyValidator/issues/3
-* https://github.com/NetologyQA12/KeyValidator/issues/4
+* [Bug Report](https://github.com/NetologyQA12/KeyValidator/issues/2)
+* [Bug Report](https://github.com/NetologyQA12/KeyValidator/issues/3)
+* [Bug Report](https://github.com/NetologyQA12/KeyValidator/issues/4)
 
 ## Описание процесса тестирования
 
