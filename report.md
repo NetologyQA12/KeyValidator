@@ -7,9 +7,7 @@
 На тестирование затрачено: 1 час.
 
 В результате тестирования выявлены следующие дефекты:
-* [Неправильный результат проверки ключа в KeyValidator 1](https://github.com/NetologyQA12/KeyValidator/issues/2)
-* [Неправильный результат проверки ключа в KeyValidator 2](https://github.com/NetologyQA12/KeyValidator/issues/3)
-* [Неправильный результат проверки ключа в KeyValidator 3](https://github.com/NetologyQA12/KeyValidator/issues/4)
+* [Неправильный результат проверки ключей в KeyValidator](https://github.com/NetologyQA12/KeyValidator/issues/5)
 
 ## Описание процесса тестирования
 
